@@ -16,7 +16,7 @@ La aplicación contiene la carpeta `backend`. A continuación se detallan los pa
 ### Flutter
 
 1. Abre el archivo `main.dart` y ejecuta normalmente.
-2. Otra opción, desde la terminar `flutter start`
+2. Otra opción, desde la terminar `flutter run`
 
 ## Uso
 
