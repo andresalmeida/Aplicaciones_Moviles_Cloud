@@ -20,7 +20,8 @@ La aplicación contiene la carpeta `backend`. A continuación se detallan los pa
 
 ## Uso
 
-1. Accede a la aplicación en tu navegador usando la URL proporcionada por Vite, generalmente `http://localhost:4000`.
+1. Accede a la aplicación en tu navegador usando la URL `http://localhost:4000` para comprobar el CRUD de usuarios.
+2. Desde la app de Flutter, manejar a gusto el CRUD, creando, eliminando, actualizando y recibiendo los usuarios.
 
 ## Estructura del Proyecto
 
